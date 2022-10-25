@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "createTime": "2021-05-31T10:09:18.000+00:00",
+    "updateTime": "2022-09-10T07:49:03.000+00:00",
+    "isDeleted": 0,
+    "param": {},
+    "roleName": "系统管理员",
+    "roleCode": "SYSTEM",
+    "description": "test"
+  },
+  {
+    "id": 2,
+    "createTime": "2021-06-01T00:38:40.000+00:00",
+    "updateTime": "2022-09-10T07:49:03.000+00:00",
+    "isDeleted": 0,
+    "param": {},
+    "roleName": "普通管理员",
+    "roleCode": "COMMON",
+    "description": "普通管理员"
+  },
+  {
+    "id": 9,
+    "createTime": "2022-09-06T01:24:51.000+00:00",
+    "updateTime": "2022-09-10T07:11:29.000+00:00",
+    "isDeleted": 0,
+    "param": {},
+    "roleName": "test",
+    "roleCode": "",
+    "description": null
+  },
+  {
+    "id": 10,
+    "createTime": "2022-09-06T02:46:36.000+00:00",
+    "updateTime": "2022-09-10T07:11:29.000+00:00",
+    "isDeleted": 0,
+    "param": {},
+    "roleName": "test1",
+    "roleCode": "",
+    "description": null
+  },
+  {
+    "id": 11,
+    "createTime": "2022-09-06T02:46:41.000+00:00",
+    "updateTime": "2022-09-10T07:11:29.000+00:00",
+    "isDeleted": 0,
+    "param": {},
+    "roleName": "test2",
+    "roleCode": "",
+    "description": null
+  },
+  {
+    "id": 17,
+    "createTime": "2022-09-09T13:57:27.000+00:00",
+    "updateTime": "2022-09-10T07:11:29.000+00:00",
+    "isDeleted": 0,
+    "param": {},
+    "roleName": "管理员测试",
+    "roleCode": "testmanager",
+    "description": "管理员测试"
+  },
+  {
+    "id": 18,
+    "createTime": "2022-09-09T14:13:38.000+00:00",
+    "updateTime": "2022-09-10T07:11:29.000+00:00",
+    "isDeleted": 0,
+    "param": {},
+    "roleName": "测试角色",
+    "roleCode": "testManager",
+    "description": "测试角色"
+  },
+  {
+    "id": 1568242468682162177,
+    "createTime": "2022-09-09T14:18:36.000+00:00",
+    "updateTime": "2022-09-10T07:11:29.000+00:00",
+    "isDeleted": 0,
+    "param": {},
+    "roleName": "测试角色1",
+    "roleCode": "testManager1",
+    "description": "测试角色1"
+  },
+  {
+    "id": 1568242629080686593,
+    "createTime": "2022-09-09T14:19:14.000+00:00",
+    "updateTime": "2022-09-10T07:11:29.000+00:00",
+    "isDeleted": 0,
+    "param": {},
+    "roleName": "测试角色2",
+    "roleCode": "testManager2",
+    "description": "测试角色2"
+  },
+  {
+    "id": 1568507706086166530,
+    "createTime": "2022-09-10T07:52:33.000+00:00",
+    "updateTime": "2022-09-10T07:52:33.000+00:00",
+    "isDeleted": 0,
+    "param": {},
+    "roleName": "角色管理员atguigu",
+    "roleCode": "role",
+    "description": "角色管理员"
+  }
+]

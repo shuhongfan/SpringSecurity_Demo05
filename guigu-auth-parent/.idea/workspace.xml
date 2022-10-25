@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6c6b318-67ca-4596-bcae-b0989c7ba2c8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2EW2e2OjT5fnoDvVN3xhaKQVi8i" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/spring-security/src/main/java/com/atguigu/system/utils" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu.system" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.system.mapper" />
+      <recent name="com.atguigu.common.utils" />
+      <recent name="com.atguigu.system.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\sys_manage\code\guigu-auth-parent\common\spring-security\src\main\java\com\atguigu\system\utils" />
+      <recent name="C:\Users\Administrator\Desktop\sys_manage\code\guigu-auth-parent\common\common-util\src\main\java\com\atguigu\common\utils" />
+      <recent name="C:\Users\Administrator\Desktop\sys_manage\code\guigu-auth-parent\service-system\src\main\resources\mapper" />
+      <recent name="C:\Users\Administrator\Desktop\sys_manage\code\guigu-auth-parent\service-system\src\test\java\com\atguigu\system\test" />
+      <recent name="C:\Users\Administrator\Desktop\sys_manage\code\guigu-auth-parent\model\src\main\java" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8800" />
+          <option name="urlPath" value="/admin/system/sysRole/remove/8" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8800" />
+          <option name="urlPath" value="/admin/system/sysRole/findAll" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceAuthApplication">
+    <configuration name="CodeGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.system.test.CodeGet" />
+      <module name="service-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.system.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.common.utils.JwtHelper" />
+      <module name="common-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SysRoleServiceTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.system.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.system.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.system.test.SysRoleServiceTest" />
+      <option name="METHOD_NAME" value="remove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SysRoleServiceTest.select" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.system.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.system.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.system.test.SysRoleServiceTest" />
+      <option name="METHOD_NAME" value="select" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.system.ServiceAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CodeGet" />
+      <item itemvalue="Application.JwtHelper" />
+      <item itemvalue="JUnit.SysRoleServiceTest.remove" />
+      <item itemvalue="JUnit.SysRoleServiceTest.select" />
+      <item itemvalue="Spring Boot.ServiceAuthApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceAuthApplication" />
+        <item itemvalue="Application.JwtHelper" />
+        <item itemvalue="Application.CodeGet" />
+        <item itemvalue="JUnit.SysRoleServiceTest.select" />
+        <item itemvalue="JUnit.SysRoleServiceTest.remove" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6c6b318-67ca-4596-bcae-b0989c7ba2c8" name="Default Changelist" comment="" />
+      <created>1662697111440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662697111440</updated>
+      <workItem from="1662697114851" duration="6386000" />
+      <workItem from="1662725461068" duration="6228000" />
+      <workItem from="1662768778834" duration="6002000" />
+      <workItem from="1662861972361" duration="15545000" />
+      <workItem from="1662949533617" duration="6142000" />
+      <workItem from="1663029261831" duration="602000" />
+      <workItem from="1663042618794" duration="6529000" />
+      <workItem from="1663632349455" duration="28000" />
+      <workItem from="1664239727679" duration="709000" />
+      <workItem from="1664243031128" duration="7419000" />
+      <workItem from="1664327211947" duration="16362000" />
+      <workItem from="1664412092078" duration="9108000" />
+      <workItem from="1664449164832" duration="658000" />
+      <workItem from="1664547270655" duration="2958000" />
+      <workItem from="1664762433306" duration="140000" />
+      <workItem from="1665190677075" duration="17053000" />
+      <workItem from="1665270198533" duration="32028000" />
+      <workItem from="1665401319678" duration="6277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service-system/src/main/java/com/atguigu/system/controller/IndexController.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

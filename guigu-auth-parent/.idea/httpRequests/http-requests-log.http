@@ -1,0 +1,38 @@
+DELETE http://localhost:8800/admin/system/sysRole/remove/8
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-11T013542.200.json
+
+###
+
+DELETE http://localhost:8800/admin/system/sysRole/remove/8
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-11T013537.200.json
+
+###
+
+GET http://localhost:8800/admin/system/sysRole/findAll
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-11T013441.200.json
+
+###
+
+GET http://localhost:8800/admin/system/sysRole/findAll
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-11T012941.200.json
+
+###
+
+GET http://localhost:8080/admin/system/sysRole/findAll
+Accept: */*
+Cache-Control: no-cache
+
+###
+
